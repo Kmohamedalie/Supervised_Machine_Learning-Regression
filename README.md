@@ -11,7 +11,7 @@ Supervised learning further can be classified into two categories of algorithms:
 	eg: Fraud detection. You are trying to identify Yes/No class
 
 <br>
-However in this repository we will be focusing solely on the following classification algorithms:
+Note this is not an exhaustive list since most classification alogrithms can also perform regression task example <a href="https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html">xgboostRegressor</a>,  <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html">RandomForestRegressor</a>, also even though the name says <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html">Logistic regression</a> it is a classification algorithm:
 <br>
 <br>
 <table>
@@ -32,12 +32,12 @@ However in this repository we will be focusing solely on the following classific
         <td><a href="">Multiple Linear Regression </a></td>
         <td><a href=""> </a></td>
         <td><a href=""></a></td>
-      </tr>  
-      <tr>
-        <td><a href="">Logistic Regression </a></td>
+      </tr>
+       <tr>
+        <td><a href="">Polynomial Regression </a></td>
         <td><a href=""> </a></td>
         <td><a href=""></a></td>
-      </tr>
+      </tr>   
       <tr>
         <td><a href="">Lasso and Ridge </a></td>
         <td><a href=""> </a></td>
