@@ -1,8 +1,4 @@
 # Supervised Machine Learning - Regression Algorithms
-Course: 365datascience - <a href="https://www.udemy.com/course/the-supervised-machine-learning-course/learn/lecture/33662468#overview">Supervised  Machine Learning Bootcamp</a>
-
-
-
 <a href='https://developers.google.com/machine-learning/intro-to-ml/supervised'>Supervised learning</a>: is a type of machine learning in which machine learn
 from known datasets (set of training examples), and then predict the output.
 A supervised learning agent needs to find out the function that matches a given sample set.
@@ -32,6 +28,21 @@ However in this repository we will be focusing solely on the following classific
         <td><a href=""> </a></td>
         <td><a href=""></a></td>
       </tr>
-        
+      <tr>
+        <td><a href="">Multiple Linear Regression </a></td>
+        <td><a href=""> </a></td>
+        <td><a href=""></a></td>
+      </tr>  
+      <tr>
+        <td><a href="">Logistic Regression </a></td>
+        <td><a href=""> </a></td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td><a href="">Lasso and Ridge </a></td>
+        <td><a href=""> </a></td>
+        <td><a href=""></a></td>
+      </tr>  
+    
    </tbody>
 </table>
