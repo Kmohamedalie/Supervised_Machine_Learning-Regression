@@ -41,7 +41,7 @@ Note this is not an exhaustive list since most classification alogrithms can als
       <tr>
         <td><a href="">Lasso and Ridge </a></td>
         <td><a href=""> </a></td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/Hitters.csv">Hitters Baseball</a></td>
       </tr>  
     
    </tbody>
