@@ -30,8 +30,8 @@ Note this is not an exhaustive list since most classification alogrithms can als
       </tr>
       <tr>
         <td><a href="">Multiple Linear Regression </a></td>
-        <td><a href=""> </a></td>
-        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA_mult.csv"> SaT and Gpa Mult</a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Multiple_Linear_Regression_with_Statsmodels_SaT_and_Gpa.ipynb">SaT_Gpa_Mult </a>, <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Real_Estate_Housing_Statsmodels.ipynb">Real Estate price </a> </td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA_mult.csv"> SaT and Gpa Mult, <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/real_estate_price_size_year.csv">Real Estate price </a></a></td>
       </tr>
        <tr>
         <td><a href="">Polynomial Regression </a></td>
