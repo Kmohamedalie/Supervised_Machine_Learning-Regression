@@ -35,12 +35,7 @@ Note this is not an exhaustive list since most classification alogrithms can als
 		<a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Real_Estate_Housing_Statsmodels.ipynb">Statsmodels_Real Estate price </a> </td>
         <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA_mult.csv"> SaT and Gpa Mult</a> <br/>
 		<a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/real_estate_price_size_year.csv">Real Estate price </a></td>
-      </tr>
-       <tr>
-        <td>Polynomial Regression</td>
-        <td><a href=""> </a></td>
-        <td><a href=""></a></td>
-      </tr>   
+      </tr>  
       <tr>
         <td>Lasso and Ridge </td>
         <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Ridge_and_Lasso_Regression_Hitters_baseball.ipynb">Regularization</a></td>
