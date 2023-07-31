@@ -24,22 +24,22 @@ Note this is not an exhaustive list since most classification alogrithms can als
    </thead>
    <tbody>
       <tr>
-        <td><a href="">Linear Regression </a></td>
-        <td><a href="">Simple Linear Regression </a></td>
+        <td>Linear Regression </td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Simple_Linear_Regression_with_Statsmodels.ipynb">Simple Linear Regression </a></td>
         <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA.csv">SaT and Gpa</a></td>
       </tr>
       <tr>
-        <td><a href="">Multiple Linear Regression </a></td>
+        <td>Multiple Linear Regression </td>
         <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Multiple_Linear_Regression_with_Statsmodels_SaT_and_Gpa.ipynb">SaT_Gpa_Mult </a>, <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Real_Estate_Housing_Statsmodels.ipynb">Real Estate price </a> </td>
         <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA_mult.csv"> SaT and Gpa Mult, <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/real_estate_price_size_year.csv">Real Estate price </a></a></td>
       </tr>
        <tr>
-        <td><a href="">Polynomial Regression </a></td>
+        <td>Polynomial Regression</td>
         <td><a href=""> </a></td>
         <td><a href=""></a></td>
       </tr>   
       <tr>
-        <td><a href="">Lasso and Ridge </a></td>
+        <td>Lasso and Ridge </td>
         <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Ridge_and_Lasso_Regression_Hitters_baseball.ipynb">Regularization</a></td>
         <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/Hitters.csv">Hitters Baseball</a></td>
       </tr>  
