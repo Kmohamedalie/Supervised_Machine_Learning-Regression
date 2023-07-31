@@ -25,13 +25,16 @@ Note this is not an exhaustive list since most classification alogrithms can als
    <tbody>
       <tr>
         <td>Linear Regression </td>
-        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Simple_Linear_Regression_with_Statsmodels.ipynb">statsmodels </a>, <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Simple_Linear_Regression_with_Sklearn_SAT_and_GPA.ipynb">sklearn</a></td>
-        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA.csv">SaT and Gpa</a>, <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/real_estate_price_size.csv">Real estate price</a> </td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Simple_Linear_Regression_with_Statsmodels.ipynb">statsmodels </a> <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Simple_Linear_Regression_with_Sklearn_SAT_and_GPA.ipynb">sklearn</a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA.csv">SaT and Gpa</a> <br/> <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/real_estate_price_size.csv">Real estate price</a> </td>
       </tr>
       <tr>
         <td>Multiple Linear Regression </td>
-        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Multiple_Linear_Regression_with_Statsmodels_SaT_and_Gpa.ipynb">SaT_Gpa_Mult </a>, <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Real_Estate_Housing_Statsmodels.ipynb">Real Estate price </a> </td>
-        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA_mult.csv"> SaT and Gpa Mult, <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/real_estate_price_size_year.csv">Real Estate price </a></a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Multiple_Linear_Regression_with_Statsmodels_SaT_and_Gpa.ipynb">Statsmodels_SaT_Gpa_Mult </a> 
+		<br/> 
+		<a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Real_Estate_Housing_Statsmodels.ipynb">Statsmodels_Real Estate price </a> </td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA_mult.csv"> SaT and Gpa Mult</a> <br/>
+		<a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/real_estate_price_size_year.csv">Real Estate price </a></td>
       </tr>
        <tr>
         <td>Polynomial Regression</td>
