@@ -26,7 +26,7 @@ Note this is not an exhaustive list since most classification alogrithms can als
       <tr>
         <td><a href="">Linear Regression </a></td>
         <td><a href="">Simple Linear Regression </a></td>
-        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA.csv"></a>SaT and Gpa</td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA.csv">SaT and Gpa</a></td>
       </tr>
       <tr>
         <td><a href="">Multiple Linear Regression </a></td>
