@@ -25,8 +25,8 @@ Note this is not an exhaustive list since most classification alogrithms can als
    <tbody>
       <tr>
         <td>Linear Regression </td>
-        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Simple_Linear_Regression_with_Statsmodels.ipynb">Simple Linear Regression </a></td>
-        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA.csv">SaT and Gpa</a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Simple_Linear_Regression_with_Statsmodels.ipynb">statsmodels </a>, <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Notebook/Simple_Linear_Regression_with_Sklearn_SAT_and_GPA.ipynb">sklearn</a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA.csv">SaT and Gpa</a>, <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/real_estate_price_size.csv">Real estate price</a> </td>
       </tr>
       <tr>
         <td>Multiple Linear Regression </td>
