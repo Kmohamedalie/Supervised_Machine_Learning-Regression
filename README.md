@@ -25,13 +25,13 @@ Note this is not an exhaustive list since most classification alogrithms can als
    <tbody>
       <tr>
         <td><a href="">Linear Regression </a></td>
-        <td><a href=""> </a></td>
-        <td><a href=""></a></td>
+        <td><a href="">Simple Linear Regression </a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA.csv"></a>SaT and Gpa</td>
       </tr>
       <tr>
         <td><a href="">Multiple Linear Regression </a></td>
         <td><a href=""> </a></td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Regression/blob/master/Dataset/SAT_GPA_mult.csv"> SaT and Gpa Mult</a></td>
       </tr>
        <tr>
         <td><a href="">Polynomial Regression </a></td>
