@@ -1,13 +1,13 @@
 # Supervised Machine Learning - Regression Algorithms
-<a href='https://developers.google.com/machine-learning/intro-to-ml/supervised'>Supervised learning</a>: is a type of machine learning in which machine learn
+<a href='https://developers.google.com/machine-learning/intro-to-ml/supervised'>**Supervised learning:**</a>is a type of machine learning in which machine learn
 from known datasets (set of training examples), and then predict the output.
 A supervised learning agent needs to find out the function that matches a given sample set.
 Supervised learning further can be classified into two categories of algorithms:
 
-1) Regression : When the outcome is pure numeric value. 
+1) **Regression :** When the outcome is pure numeric value. 
 	eg : Home price prediction. You are trying to estimate value of price.
 
-2) Classification : When the outcome is a category/class. 
+2) **Classification :** When the outcome is a category/class. 
 	eg: Fraud detection. You are trying to identify Yes/No class
 
 <br>
